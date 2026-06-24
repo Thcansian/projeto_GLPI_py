@@ -48,7 +48,7 @@ Projeto_GLPI_py/
 
 O diagrama abaixo representa a estrutura geral do sistema, incluindo as relações de herança, associação e os padrões de projeto utilizados.
 
-![Diagrama UML](./projeto_GLPI_py/imagens/UML-diagrama.png)
+![Diagrama UML](./imagens/UML-diagrama.png)
 
 > Caso a imagem não carregue na visualização do GitHub, ela pode ser acessada diretamente na pasta `imagens` do repositório.
 
